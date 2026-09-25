@@ -1,0 +1,22 @@
+{
+    "student_name": "Sarthak Tiwari",
+    "reg_number": "202400712",
+    "course": "Data Warehousing and Business Analytics (DWBA)",
+    "total_students_evaluated": 150,
+    "evaluated_grades": [
+        "S",
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+    ],
+    "subjects_processed": [
+        "Data_Structures",
+        "Algorithms",
+        "Database_Systems",
+        "Computer_Networks",
+        "Operating_Systems"
+    ]
+}
