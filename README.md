@@ -5,12 +5,9 @@ This repository contains coursework and practical implementations completed for 
 ## Repository Structure
 ```text
 DWBA-ASSIGNMENT-SARTHAK-TIWARI-202400712/
-├── Assignment1/
-│   ├── DWBA MBA ANALYSIS/
-│   │   └── market_basket_analysis.py
-│   └── online_retail_france.csv
-├── Assignment 3/
-│   └── class3.ipynb
+market_basket_analysis.py(Assignment 1)
+online_retail_france.csv
+class3.ipynb(Assignment 3)
 ├── all_subjects_grades.txt
 ├── grade_distribution_by_subject.csv
 ├── grade_distribution_chart.png
